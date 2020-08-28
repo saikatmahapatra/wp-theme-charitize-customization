@@ -11,7 +11,7 @@ $charitize_customizer_defaults['charitize-enable-pre-loader'] = 1;
 
 $charitize_customizer_defaults['charitize-footer-sidebar-number'] = 3;
 $charitize_customizer_defaults['charitize-copyright-text'] = __('Copyright &copy; All right reserved.','charitize');
-$charitize_customizer_defaults['charitize-enable-theme-name'] = 1;
+$charitize_customizer_defaults['charitize-enable-theme-name'] = 0;
 
 $charitize_sections['charitize-footer-options'] =
     array(
